@@ -37,7 +37,6 @@ You'll find the compiled site in a folder called `dist` in the project directory
 
 ## Directory Structure
 
--------------------------------------
     /project-main
       gulpfile.js................... gulp tasks for harp server and build
       harp.json..................... defines the root of the harp project
@@ -57,4 +56,3 @@ You'll find the compiled site in a folder called `dist` in the project directory
         /views...................... where you will build individual pages' markup
           /partials................. where you will build reusable ejs partials
         /img........................ where you will store all image assets
--------------------------------------
