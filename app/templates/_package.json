@@ -1,0 +1,14 @@
+{
+  "name": "<%= siteName %>",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js & gulp",
+    "compile": "harp compile . dist",
+    "postdeploy": "cd dist-prod && git add --all && git commit -m 'compiled harp' && git push -u origin gh-pages"
+  },
+  "author": "<%= author %>",
+  "license": "ISC"
+}
