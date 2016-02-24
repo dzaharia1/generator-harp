@@ -1,9 +1,12 @@
 # Harp Static Site Generator... Generator
 
-Before you being, you might want to familiarize yourself with harp at http://harpjs.com/.
-This generator currently creates a harp project using EJS, vanilla javascript and sass, but you can also use Markdown, Jade, LESS, Stylus and Coffeescript for preprocessing your site.
+## Feedback
+
+Help me make this better! If something in generator-harp could be better, or just doesn't work, tell me about it in an [issue](https://github.com/dzaharia1/generator-harp/issues), or even take a stab at fixing it yourself in a fork and [making a pull request](https://guides.github.com/introduction/flow/). You can do it!
 
 ## Getting Started
+Before you being, you might want to familiarize yourself with harp at http://harpjs.com/.
+This generator currently creates a harp project using EJS, vanilla Javascript and Sass, but you can also use Markdown, Jade, LESS, Stylus and Coffeescript for preprocessing your project.
 
 You will need to have NPM installed. Get it at http://nodejs.org.
 
